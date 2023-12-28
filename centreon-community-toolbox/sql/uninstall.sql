@@ -1,0 +1,1 @@
+DELETE FROM `topology` WHERE (topology_name='Toolbox' AND topology_page=527) OR topology_parent = 527;
